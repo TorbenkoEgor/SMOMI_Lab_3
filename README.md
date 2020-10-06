@@ -254,7 +254,7 @@ lr = 0.0000009
 
 Графики той же сети на 200 эпох
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-10-p.png)
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-10p.png)
 
 Метрика точности
 
