@@ -9,12 +9,22 @@
 Валидационные данные - Коричневый график
 
 Метрика точности
- 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_2/blob/master/logs/Screenshot_1.png)
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s1.png)
 
 Метрика функции потерь
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_2/blob/master/logs/Screenshot_2.png)
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s2.png)
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-1-p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-1-1.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-1-2.png)
 
 ---
 
@@ -198,9 +208,6 @@
 ---
 
 
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s1.png)
-
-![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s2.png)
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s3.png)
 
