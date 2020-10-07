@@ -110,6 +110,17 @@ lr = 0.0000023
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s8.png)
 
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-4-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-4-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-4-12.png)
+
 ---
 
 # train5.py
@@ -128,6 +139,16 @@ lr = 0.0000052
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s2.png)
 
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-5-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-5-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-5-12.png)
+
 ---
 
 # train6.py
@@ -145,6 +166,16 @@ lr = 0.0000098
 Метрика функции потерь
 
 ![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/s12.png)
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-6-1p.png)
+
+Метрика точности
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-6-11.png)
+
+Метрика функции потерь
+
+![Image alt](https://github.com/TorbenkoEgor/SMOMI_Lab_3/blob/main/logs/lab3-6-12.png)
 
 ---
 
